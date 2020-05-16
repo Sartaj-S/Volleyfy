@@ -1,0 +1,6 @@
+framework module Pods_VolleyStats {
+  umbrella header "Pods-VolleyStats-umbrella.h"
+
+  export *
+  module * { export * }
+}
